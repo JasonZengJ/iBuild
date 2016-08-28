@@ -1,7 +1,10 @@
 # iBuild v1.1
 A iOS automatic packing system that can pull newest code、build project、run UnitTest、Packing automaticly with concise UI and so on.
 
-The code is under refactoring. 😄
+The code is under refactoring 😄 and coming soon 😁.
+
+
+
 
 #Features
 
